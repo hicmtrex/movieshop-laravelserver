@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/movieshop-laravelserver](https://github.com/hicmtrex/movieshop-laravelserver)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|12/21/23 <br/>Report generated|
+|20<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -161,7 +161,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/1778/default_90cb8b66e85ae5b95928b10bb076ab6a27c7e151.png'/> Packagist (7)
 
@@ -174,6 +174,13 @@ Full tech stack [here](/techstack.md)
 |[mockery/mockery](https://packagist.org/mockery/mockery)|v1.5.0|02/07/22|Firstname Lastname |N/A|N/A|
 |[nunomaduro/collision](https://packagist.org/nunomaduro/collision)|v5.11.0|02/07/22|Firstname Lastname |N/A|N/A|
 |[phpunit/phpunit](https://packagist.org/phpunit/phpunit)|v9.5.13|02/07/22|Firstname Lastname |N/A|N/A|
+
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (1)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[laravel-mix](https://www.npmjs.com/laravel-mix)|v6.0.6|02/07/22|Firstname Lastname |MIT|N/A|
 
 <br/>
 <div align='center'>
